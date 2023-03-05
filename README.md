@@ -1,8 +1,7 @@
+## We Make Games! 
 
 <div align="center">
-  ## We Make Games! 
-  <a href="https://www.buildbyte.games/">
- [BuildByte.games](https://www.buildbyte.games/)
+  <a href="https://www.buildbyte.games/"> [BuildByte.games](https://www.buildbyte.games/)
 </div>
 
 <div style="display: inline_block"><br>Mostyly in <br>
