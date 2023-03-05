@@ -1,4 +1,4 @@
-### Hi there 👋
+### Bite my ass
 
 <!--
 **BuildByteGames/BuildByteGames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
