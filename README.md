@@ -1,7 +1,30 @@
 ## We Make Games! 
 
-<div align="center">
-</div>
 
-<div style="display: inline_block"><br>Mostyly in <br>
-  <img align="center" alt="c-sharp-logo" height="40" width="40" src="https://camo.githubusercontent.com/8d56e87edf99e89bfc457cd62462e0b7aae19e6b197b1df5c542d474d8d76f81/68747470733a2f2f646576656c6f7065722e6665646f726170726f6a6563742e6f72672f7374617469632f6c6f676f2f6373686172702e706e67">
+# A first-level heading
+## A second-level heading
+### A third-level heading
+
+
+> Text that is a quote
+
+
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
+> [!TIP]
+> Helpful advice for doing things better or more easily.
+
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
+
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
+
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
+
+
+Use `git status` to list all new or modified files that haven't yet been committed.
+
+The background color is `#ffffff` for light mode and `#000000` for dark mode.
