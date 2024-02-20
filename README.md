@@ -1,6 +1,6 @@
 
 <h1>My Digital Works</h1>
-<details><summary><h2>Softwares</h2></summary><table>
+<details><summary><h2>Game Development</h2></summary><table>
 <thead>
   <tr class="header">
     <th><pre>                                                Projects                                                </pre></th>
@@ -39,7 +39,10 @@
 	<td>
 		<a href="https://play.google.com/store/apps/details?id=com.BuildByte.NutersFishes"><img src="https://play-lh.googleusercontent.com/3dT3IMmzx88YbxRAZFka6EWQBho5Z0fgXKgjDxCn_1PBnvDhYM0NHCavSSlwlXvZvQ"  alt="Nuter Fishes Logo" width= 256px height= 256px align="right"></a>
 		<h4 href="https://play.google.com/store/apps/details?id=com.BuildByte.NutersFishes">Nuter Fishes Remaster</h4>
-		<p float="left">Nuter's Fishes Remaster was a first game developed by Build Byte<br> It was made a gift for his friend <a href="https://github.com/Nuter02" target="_blank">Nuter</a>.<br>First edition was made without version control, this mistake lead to source files being lost but orginal game can still be played <a href="https://play.google.com/store/apps/details?id=com.BuildByte.NuterssFishes" target="_blank">here</a>.<p/>
+		<p float="left">
+			Nuter's Fishes Remaster was a first game developed by Build Byte<br>
+			It was made a gift for his friend <a href="https://github.com/Nuter02" target="_blank">Nuter</a>.<br>
+			First edition was made without version control, this mistake lead to source files being lost but orginal game can still be played <a href="https://play.google.com/store/apps/details?id=com.BuildByte.NuterssFishes" target="_blank">here</a>.<p/>
 		<details><summary>Shops</summary><ul>
 			<li><a href="https://play.google.com/store/apps/details?id=com.BuildByte.NutersFishes">Google Play</a></li>
 		</ul></details>
